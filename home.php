@@ -125,7 +125,7 @@ padding-left}
       <div class="container">
 	  
         <p class="navbar-text pull-left ">Copyrights &copy; 2015</p> 
-		<a class="navbar-btn btn-link  btn pull-right" href="https://www.facebook.com/sai.mankala">Sai</a><a class="navbar-btn btn-link  btn pull-right" href="https://www.facebook.com/shivareddy0">Shiva</a><p class="navbar-text pull-right ">Developers</p>
+	<a class="navbar-btn btn-link  btn pull-right" href="https://www.facebook.com/shivareddy0">Shiva</a><p class="navbar-text pull-right ">Developer</p>
 
 </div>
 </div>
